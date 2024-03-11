@@ -5,7 +5,7 @@ Help Transalte Ai Books &lt;3
 ## Translated Languages Status
 | Language  | Dashboard | Discord Bot   | Main Pages    | Status Page   |   Translator  |
 | --------- | --------- | ------------- | ------------- | --------------| ------------- |
-| English   |   ✅      |       ❌     |    ❌         |    ❌  |        by @MikynkaAsi  |
+| English   |   ✅      |       ❌     |    ✅         |    ❌  |        by @MikynkaAsi  |
 | Czech     |   ✅      |       ✅     |    ✅         |    ✅  | Official Autor Language |
 | Slovakia  |   ❌      |       ❌     |    ❌         |    ❌  | none  |
 

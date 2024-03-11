@@ -1,4 +1,14 @@
 {
     "login": "Přihlásit se",
-    "settings": "Nastavení"
+    "settings": "Nastavení",
+    "sign_out": "Odhlásit se",
+    "profile": "Profil",
+    "account": "",
+    "for-me": "",
+    "my-books": "",
+    "listening-history": "",
+    "saved": "",
+    "admin": "",
+    "education-books": "",
+    "summarization": ""
 }

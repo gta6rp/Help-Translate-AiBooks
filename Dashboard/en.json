@@ -1,4 +1,14 @@
 {
     "login": "Login",
-    "settings": "Settings"
+    "settings": "",
+    "sign_out": "",
+    "profile": "",
+    "account": "",
+    "for-me": "",
+    "my-books": "",
+    "listening-history": "",
+    "saved": "",
+    "admin": "",
+    "education-books": "",
+    "summarization": ""
 }

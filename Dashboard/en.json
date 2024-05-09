@@ -1,17 +1,33 @@
-{
-    "login": "Login",
-    "settings": "Settings",
-    "sign_out": "Sing out",
-    "profile": "Profile",
-    "account": "Account",
-    "for-me": "For me",
-    "my-books": "Listened books",
-    "listening-history": "Listening history",
-    "saved": "Saved",
-    "admin": "Administrator",
-    "education-books": "Education books",
-    "summarization": "Summaarization",
-    "yes": "Yes",
-    "no": "No",
-    "redeemCode": "Redeem code"
+{   
+    "general": {
+        "login": "Login",
+        "settings": "Settings",
+        "sign_out": "Sing out",
+        "profile": "Profile",
+        "account": "Account",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "navbar": {
+        "for-me": "For me",
+        "my-books": "Listened books",
+        "listening-history": "Listening history",
+        "saved": "Saved",
+        "admin": "Administrator",
+        "education-books": "Education books",
+        "summarization": "Summaarization"
+    },
+    "phrases": {
+        "redeemCode": "Redeem code"
+    },
+    "btn": {
+        "learnMore": "Learn more"
+    },
+    "pages":{
+        "index": {
+            "textTitle": "New and better way to listen audio books!"
+        }
+            
+    }
+
 }

@@ -3,11 +3,11 @@ Help Transalte Ai Books &lt;3
 
 
 ## Translated Languages Status
-| Language  | Dashboard | Discord Bot   | Main Pages    | Status Page   |   Translator  |
-| --------- | --------- | ------------- | ------------- | --------------| ------------- |
-| English   |   ✅      |       ❌     |    ✅         |    ❌  |        by @MikynkaAsi  |
-| Czech     |   ✅      |       ✅     |    ✅         |    ✅  | Official Autor Language |
-| Slovakia  |   ❌      |       ❌     |    ❌         |    ❌  | none  |
+| Language  | Dashboard | Main Pages    | PC APP | Mobile APP | Download | Translator  |
+| --------- | --------- | ------------- | -------| ---------- |----------|-------------| 
+| English   |   ✅      |    ✅        |    ❌  |     ❌    |    ✅    |by @MikynkaAsi  |
+| Czech     |   ✅      |    ✅        |    ✅  |     ✅    |    ❌    |Official Autors Language |
+| Slovakia  |   ❌      |   ❌         |    ❌  |     ❌    |    ❌    |none              |
 
 ## Legend
 + ✅ - Translate

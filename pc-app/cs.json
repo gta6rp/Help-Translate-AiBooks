@@ -1,3 +1,26 @@
 {
-    "test": "test"
+    "Pages": {
+        "main": {
+            "btn": {
+                "NeedHelp": "Potřebuješ pomoct s přihlášením? Podívej se na náš tutoriál!",
+                "DiscordSupport": "Nedaří se ti problém vyřešit? Zkontaktuj naši užasnou podporu na discordu!"
+            },
+            "text": {
+                "Description": "Nejlepší platforma na Ai Knihy!"
+            }
+        },
+        "Account": {
+            "profile": "Profil",
+            "logout": "Odhlásit se"
+        }
+    },
+    "common":{
+        "btn": {
+            "yes": "Ano",
+            "no": "Ne"
+        },
+        "error": {
+            "404": "Ops"
+        }
+    }
 }

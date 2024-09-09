@@ -2,16 +2,18 @@
 Help Transalte Ai Books &lt;3
 
 
-## Translated Languages Status
-| Language  | Dashboard | Main Pages    | PC APP | Mobile APP | Download | Translator  |
-| --------- | --------- | ------------- | -------| ---------- |----------|-------------| 
-| English   |   ✅      |    ✅        |    ❌  |     ❌    |    ✅    |by @MikynkaAsi  |
-| Czech     |   ✅      |    ✅        |    ✅  |     ✅    |    ❌    |Official Autors Language |
-| Slovakia  |   ❌      |   ❌         |    ❌  |     ❌    |    ❌    |none              |
+## Translated Website Languages Status
+| Language | Account | Main Page | Translator |
+| -------- | ------- | --------- | ---------- |  
+| English  |  ✅    |    🚀     | by @MikynkaAsi          |
+| Czech    |  ✅    |    ✅     | Offical authors language           | 
+| Slovakia |  ❌    |    ❌     | none           |
+| Russia   |  🚀    |    🚀     |       🤫       |
 
 ## Legend
 + ✅ - Translate
 + ❌ - Not Translated
++ 🚀 - Working on
 
 
 # How to translate?

@@ -1,0 +1,25 @@
+{
+    "login": {
+        "title": "Sign in to your account",
+        "or": "Or",
+        "subTitle": "sign up for a new account",
+        "email": "Email address",
+        "password": "Password",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot your password?",
+        "submit": "Sign in"
+    },
+    "register": {
+        "title": "Create an Account",
+        "subTitle": "Already have an account?",
+        "signIn": "Sign in",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "username": "Username",
+        "email": "Email address",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "submit": "Create Account"
+
+    }
+}
